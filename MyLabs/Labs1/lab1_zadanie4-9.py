@@ -12,7 +12,7 @@ description
 
 print(age)
 print(description)
-print(f"Длинна текстовой строки {len(description)}")
+print("Длинна текстовой строки", len(description))
 
 upper_city = city.upper() # Метод upper, для преоброзование всех элементов.
 print(upper_city)
